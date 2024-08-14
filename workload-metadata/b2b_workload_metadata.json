@@ -2,7 +2,7 @@
   "jmeter_version" : "5.6.3",
   "tasks": [
     {
-    "task_name": "checking_oom",
+    "task_name": "oom",
     "script_name": "oom.jmx",
     "user_files": "users1.csv",
     "data_files": {
