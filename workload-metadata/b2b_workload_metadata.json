@@ -4,7 +4,7 @@
     {
     "task_name": "oom",
     "script_name": "oom.jmx",
-    "user_file": "users1.csv",
+    "users_file": "users1.csv",
     "data_files": {
         "account_file" : "accounts.csv",
         "opportunity_file" : "opportunities.csv",
