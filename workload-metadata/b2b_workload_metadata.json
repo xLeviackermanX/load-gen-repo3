@@ -3,7 +3,7 @@
   "tasks": [
     {
     "task_name": "my-task",
-    "script_name": "oom.jmx",
+    "script_name": "",
     "users_file": "users1.csv",
     "data_files": {
         "account_file" : "accounts.csv",
