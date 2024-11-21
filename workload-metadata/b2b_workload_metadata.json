@@ -3,7 +3,7 @@
   "tasks": [
     {
     "task_name": "safe",
-    "script_name": "guard.jmx",
+    "script_name": "client-metrics-monitoring.jmx",
     "users_file": "users1.csv",
     "data_files": {
         "account_file" : "accounts.csv",
